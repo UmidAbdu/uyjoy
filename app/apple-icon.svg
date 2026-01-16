@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <!-- Background -->
+  <rect width="180" height="180" rx="40" fill="#0D4D4D"/>
+  <!-- House outline -->
+  <path
+    d="M90 35L30 75V145H65V110C65 106 68 103 72 103H108C112 103 115 106 115 110V145H150V75L90 35Z"
+    stroke="white"
+    stroke-width="6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="white"
+    fill-opacity="0.1"
+  />
+  <!-- Heart in the middle -->
+  <path
+    d="M90 60C84 54 74 54 68 60C62 66 62 76 68 82L90 105L112 82C118 76 118 66 112 60C106 54 96 54 90 60Z"
+    fill="#C17F59"
+  />
+</svg>
